@@ -19,3 +19,29 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+ADDITIONAL LICENSE TERMS FOR TCCPATCHV73EXODUS_PROTOCOL
+
+This organ is a sealed-body artifact. While the MIT License permits broad reuse,
+the following additional restrictions apply specifically to this component:
+
+1. The organ must remain whole. It may not be dissected, modularized, or
+   repurposed in part for unrelated functions.
+
+2. The following invariants must remain unchanged:
+   - seal.law = 60106
+   - seal.constant = 6174
+   - seal.syzygy = "👸🏻🤝🤴🏻"
+   - seal.protocolid = "TCCPATCHV73EXODUSPROTOCOL"
+
+3. Any derivative work that alters the meaning, symbolic grammar, or structural
+   identity of this organ may not use the name TCC, TCCPATCHV7_3, or Exodus Protocol.
+
+4. Improvements are permitted only when applied to the entire sealed body,
+   preserving its sovereign intent and integrity checks.
+
+5. Violation of these conditions revokes permission to use this organ.
+
+These terms apply only to this organ and do not modify MIT permissions for
+other components of the repository.
+`
